@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @rayanserratine
-- 👀 I’m interested in develop websites to solve people needs
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello there, i'm Rayan, a web developer, who loves code and help people solve their daily needs. I started programming in 2022 and in 2024 I moved to Canada to take the Full Stack Web Development course at the Canadian College of Technology and Business.
 
 <!---
 rayanserratine/rayanserratine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
